@@ -1,0 +1,2 @@
+# ADO.Net-Online-Bike-Shop-Project-with-Crystal-Report
+In my ADO.NET project, I'm creating an online bike shop featuring user-friendly functionalities like login and registration. Utilizing a SQL database, I'm designing a platform where users can explore a diverse selection of bikes complete with images and detailed information. This project offers a seamless and interactive shopping experience for bike enthusiasts. Also added a crystal report for payment details.
