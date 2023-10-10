@@ -1,0 +1,88 @@
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB.mdf
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB_log.ldf
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.AssemblyReference.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Login.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.MainWindow.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.Payment.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.UserUpdate.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Properties.Resources.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Registration.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.GenerateResource.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.CoreCompileInputs.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe.config
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz - 14\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB.mdf
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB_log.ldf
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe.config
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.Shared.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\stdole.dll
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.AssemblyReference.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Login.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.MainWindow.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.Payment.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.Print.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.UserUpdate.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Properties.Resources.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Registration.resources
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.GenerateResource.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.CoreCompileInputs.cache
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.CopyComplete
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+D:\Csharp\1271713_ADO.Net_Project\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB.mdf
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\Database\NewazProjectDB_log.ldf
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe.config
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.Shared.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\bin\Debug\stdole.dll
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.AssemblyReference.cache
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Login.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.MainWindow.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.Payment.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.Print.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Forms.UserUpdate.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Properties.Resources.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\_1271713_ADO.NetCCProjectByNewaz.Registration.resources
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.GenerateResource.cache
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.CoreCompileInputs.cache
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.csproj.CopyComplete
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.exe
+F:\1271713_ADO.NetCCProjectByNewaz\1271713_ADO.NetCCProjectByNewaz\obj\Debug\1271713_ADO.NetCCProjectByNewaz.pdb
